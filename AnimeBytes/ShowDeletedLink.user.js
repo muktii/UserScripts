@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name        AnimeBytes ShowDeleted Link
-// @namespace   mukti.moe
 // @author      mukti
 // @description Add a button to append "&showdeleted=1" to all forum post URLs
 // @include     *animebytes.tv/forums.php*&threadid=*
